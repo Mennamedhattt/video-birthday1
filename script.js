@@ -8,7 +8,7 @@ function openWebsite(){document.getElementById('cover').style.display='none';con
             display:flex;
             justify-content:center;
             align-items:center;
-            background:linear-gradient(135deg,#000,#3d001d);
+            background:#ffffff);
             overflow:hidden;
             font-family:Poppins,sans-serif;
         }
@@ -83,8 +83,7 @@ function openWebsite(){document.getElementById('cover').style.display='none';con
             <p>
                 Happy Birthday,<br>
                 My Forever Person.<br>
-                You are my happiness,<br>
-                my home, and my heart.
+                  
             </p>
         </div>
     </div>
