@@ -1,0 +1,1 @@
+Place cover.png in images/, intro.mp4 in video/, and main.html in project root.
