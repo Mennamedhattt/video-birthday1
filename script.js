@@ -1,0 +1,1 @@
+function openWebsite(){document.getElementById('cover').style.display='none';const overlay=document.getElementById('videoOverlay');const video=document.getElementById('introVideo');overlay.style.display='flex';video.currentTime=0;video.play().catch(()=>{});video.onended=()=>{window.location.href='main.html';};}
