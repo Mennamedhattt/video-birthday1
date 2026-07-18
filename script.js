@@ -5,8 +5,8 @@ function openWebsite(){document.getElementById('cover').style.display='none';con
             display:flex;
             justify-content:center;
             align-items:center;
-            background:#1111;
-            color:black;
+            background:#000;
+            color:white;
             font-family:'Great Vibes',cursive;
             font-size:50px;
             text-align:center;
